@@ -83,3 +83,14 @@ Third-party software, all rights belong to the original authors (Godot Engine). 
 <sub>Third-party software, all rights belong to the original authors. Names and trademarks are the property of their respective owners. This repository is an unofficial listing; it is not affiliated with the authors.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Download Godot Engine on SOFTGIT](https://softgit.pro/p/godot-engine)** — the full listing and download.
+- 📄 **[Godot Engine web page](https://typerajarevere.github.io/godot-engine-download/)** — standalone info page.
+- 🗂️ [More Games software](https://softgit.pro/category/games)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Godot Engine. Third-party software; all rights belong to the original authors.
